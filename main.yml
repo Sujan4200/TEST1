@@ -1,7 +1,7 @@
 ---
 company: spacelift
 domain:
- - devops
+ - devOps
  - devsecops
 tutorial:
   - yaml:
